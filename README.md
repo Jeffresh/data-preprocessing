@@ -12,4 +12,4 @@ First we will go in deep about the basic information of the dataset. Sometimes o
 
 We will do this analysis using *python* and *jupyter notebooks* using the most us libraries as *numpy*, *matplotlib*, *pandas*, and *seaborn*
 
-[implementation]
+[implementation](./src/datapreprocessing.ipynb)
